@@ -1,0 +1,6 @@
+1)Quando si scrive format short si chiede una rappresentazione con non più di N cifre significative dopo la virgola, 
+pertanto il numero di macchina deve avere p=4;
+2)Si considerano un numero finito di addendi nei sviluppi in serie di taylor, per x molto piccolo
+serve una serie piccola di addendi dato che più in avanti si va con lo sviluppo più si rischia, dato che il numero è 
+piccolo, di andare in underflow. 
+

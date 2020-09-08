@@ -1,0 +1,3 @@
+Tips sulle spline:
+1)La spline cubica not-a-knot interpolante una funzione continua f, converge a f qualunque sia la scelta 
+dei nodi di interpolazione.

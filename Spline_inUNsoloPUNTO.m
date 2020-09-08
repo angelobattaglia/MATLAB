@@ -1,0 +1,5 @@
+%ASSEGNATI I DATI, LA SPLINE DI TIPO NOT A KNOT INTERPOLANTE I DATI NEL
+%PUNTO log(0.9);
+x=[-1 1 7 9 19];
+y=[4 3 10 10 9];
+s=spline(x,y,log(0.9));
