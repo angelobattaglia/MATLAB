@@ -1,4 +1,6 @@
 %Approssimare
+clear all
+clc
 
 x=10^-5;
 y_real=3-sqrt(9+x.^2);

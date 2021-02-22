@@ -1,4 +1,4 @@
-%Utilizzo spline cubica:
+%:
 f= @(x) cos(x);
 x_nodi=linspace(-1,1,12);
 z=linspace(-1,1,120);

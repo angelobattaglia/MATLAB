@@ -1,4 +1,7 @@
 %sommatoria con for
+clc
+clear all
+
 v=[1:30];
 y1=log(v);
 y2=sqrt(v);

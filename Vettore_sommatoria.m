@@ -1,3 +1,6 @@
+clear all
+clc
+
 %Sia  il vettore
 %contenente gli interi
 %tra  e  (estremi inclusi). L'espressione 
